@@ -1,5 +1,5 @@
 .image {
-  /* the magic */
+  
   display: block;
   width: 180px;
   height: 180px;
@@ -9,7 +9,6 @@
   -ms-border-radius: 180px;
   -o-border-radius: 180px;
   border-radius: 180px;
-  /* the rest */
   position: relative; /* for the overlay later */
   margin: 200px auto;
   text-align: center;
